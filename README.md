@@ -1,13 +1,13 @@
 # sql-challenge
 
-Source Data:
+Source Data:<br>
 https://github.com/KamalFarran/sql-challenge/tree/main/EmployeeSQL/data
-
-Queries and Outputs:
+<br>
+Queries and Outputs:<br>
 https://github.com/KamalFarran/sql-challenge/tree/main/EmployeeSQL/DataAnalysis_Queries
-
-Entity Relationship Diagram:
+<br>
+Entity Relationship Diagram:<br>
 https://github.com/KamalFarran/sql-challenge/blob/main/EmployeeSQL/EntityRelationshipDiagram.png
-
-Create Schema:
+<br>
+Create Schema:<br>
 https://github.com/KamalFarran/sql-challenge/blob/main/EmployeeSQL/CreateSchema.sql
